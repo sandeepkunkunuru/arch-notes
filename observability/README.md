@@ -9,7 +9,7 @@
 - Observability is [necessary](https://www.nist.gov/system/files/documents/2019/04/05/08c_assesssment_of_digital_twin_manufcturing_frameworks_-_hardwick.pdf) for building a digital twin
 - Digital Twin [reference](https://www.mdpi.com/2071-1050/12/3/1088/pdf) model
 
-![](images/DigitalTwin-Reference-Model-2022-05-19 18-42-22.png)
+![](./images/DigitalTwin-Reference-Model-2022-05-19 18-42-22.png)
 
 # References
 
