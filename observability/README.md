@@ -5,6 +5,9 @@
   - logs
   - traces
 
+# Digital Twin
+- Observability is [necessary](https://www.nist.gov/system/files/documents/2019/04/05/08c_assesssment_of_digital_twin_manufcturing_frameworks_-_hardwick.pdf) for building a digital twin
+
 # References
 
 - [What is Observability](https://www.splunk.com/en_us/data-insider/what-is-observability.html)
