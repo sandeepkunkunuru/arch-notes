@@ -1,3 +1,8 @@
+# Notes
+- [Architecture Decision Records](./ADR.md)
+- [The Open Group Architectural Framework](./TOGAF.md)
+- [Zachman architectural framework](./Zachman.md)
+
 # References
 
 - [6WDD or 5W1H](https://gist.github.com/sandeepkunkunuru/7e55714fbf4a9e3454989e733a176e63)
