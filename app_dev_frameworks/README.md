@@ -7,3 +7,6 @@
     - Comes with add-ons to help with common use cases, for example moving data from firebase to bigquery.
   - [Amplify](https://aws.amazon.com/amplify/) for AWS, provided as a service. 
     - Wraps - DynamoDB, Cognito, Cloudformation, AppSync and allows one to build SPA quickly with code generation.
+- GraphQL application development [frameworks](https://nordicapis.com/6-helpful-graphql-frameworks-flacheql-relay-apollo-and-others/)
+  - Relay
+  - Apollo
