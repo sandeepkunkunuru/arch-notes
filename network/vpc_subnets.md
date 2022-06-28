@@ -4,7 +4,7 @@
 
 `If a subnet is associated with a route table that has a route to an internet gateway, it's known as a public subnet. If a subnet is associated with a route table that does not have a route to an internet gateway, it's known as a private subnet.`
 
-- Is disk slower than network now? If yes :
+- Is disk slower than network now? :
   - [what-happens-when-an-internet-connection-is-faster-than-the-storage-write](https://cs.stackexchange.com/questions/84487/what-happens-when-an-internet-connection-is-faster-than-the-storage-write-speed#:~:text=Both%20network%20traffic%20and%20HDD,slower%20speed%20of%20your%20HDD.)
   - [are-networks-now-faster-than-disks](https://serverfault.com/a/238534/93523)
 
@@ -22,5 +22,8 @@ Disk seek                             10,000,000 ns
 Read 1 MB sequentially from network   10,000,000 ns
 Read 1 MB sequentially from disk      30,000,000 ns (20,000,000)
 Send packet CA->Netherlands->CA      150,000,000 ns
-
 ```
+
+- A key driver for in-memory databases/caches ex:  redis and voltDB. Thus enabling lambda architectures which combines streaming and batch together to aid two concurrent and different use cases
+  - get me quick count
+  - let's handle/see/analyze data a bit.
